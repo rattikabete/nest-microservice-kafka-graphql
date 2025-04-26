@@ -12,5 +12,3 @@
   <img src = "./images/diagram.png">
 ## Stay in touch
 
-- Author - [Yong Yi Wong]
-- Email - yongyi.fullstack@gmail.com
