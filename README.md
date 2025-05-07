@@ -10,5 +10,4 @@
 - Added JWT token
 
   <img src = "./images/diagram.png">
-## Stay in touch
 
